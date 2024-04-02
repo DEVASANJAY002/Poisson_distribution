@@ -1,3 +1,6 @@
+# NAME : DEVASANJAY N
+# REGISTER NUMBER:212223040032
+
 # Fitting Poisson  distribution
 # Aim : 
 
